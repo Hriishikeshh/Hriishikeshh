@@ -1,6 +1,5 @@
 <div align="center">
-<img width="500"  src="https://github.com/Hriishikeshh/Hriishikeshh/assets/134122905/1185030c-b77a-41a3-897d-c4e8503984fa
-">
+<img width="500"  src="https://i.pinimg.com/564x/8f/23/c5/8f23c5fc86be8bf1fe71751221012eed.jpg">
 <h1 align="center">Hi, I'm Hrishikesh Patkar! 👋</h1>
 <h3 align="center">I am a versatile MERN stack developer with a deep passion for continuous learning and pushing the boundaries of technology.</h3>
 </div>
@@ -43,7 +42,6 @@ Feel free to reach out to me through the following channels:
 ![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hriishikeshh&show_icons=true&theme=radical)
 
 <div align="center">
-  <img src=""  />
 </div>
 
 <!-- Footer -->
