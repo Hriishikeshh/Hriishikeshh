@@ -1,5 +1,5 @@
 <div align="center">
-<img width="500"  src="![image](https://github.com/Hriishikeshh/Hriishikeshh/assets/134122905/1185030c-b77a-41a3-897d-c4e8503984fa)
+<img width="500"  src="https://github.com/Hriishikeshh/Hriishikeshh/assets/134122905/1185030c-b77a-41a3-897d-c4e8503984fa
 ">
 <h1 align="center">Hi, I'm Hrishikesh Patkar! 👋</h1>
 <h3 align="center">I am a versatile MERN stack developer with a deep passion for continuous learning and pushing the boundaries of technology.</h3>
