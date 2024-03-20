@@ -18,7 +18,7 @@ As a developer, I stay up-to-date with the latest advancements in the tech world
 - Programming languages: JavaScript, Python, C++
 - Web technologies: HTML5, CSS3, React, Node.js
 - Databases: MongoDB
-- Frameworks and libraries: Express.js
+- Frameworks and libraries: Express.js,PowerBi
 - Version control: Git, GitHub
 
 <!-- Your Blog -->
