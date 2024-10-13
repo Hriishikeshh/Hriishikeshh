@@ -1,6 +1,5 @@
 <div align="center">
   <h1 align="center">Hi, I'm Hrishikesh Patkar! 👋</h1>
-<img width="200"  src="">
 <h3 align="center">I am a versatile MERN stack developer with a deep passion for continuous learning and pushing the boundaries of technology.</h3>
 </div>
 
